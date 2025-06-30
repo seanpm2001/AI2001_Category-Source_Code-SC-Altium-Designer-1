@@ -1,4 +1,12 @@
 
+|  **⛔️** DEPRECATION NOTICE 2025.06.29 **⛔️** |
+|---|
+| This repository was created on 2025, June 28th, and would not generate for about 60 minutes. I kept waiting, but I couldn't keep waiting, so I created [:octocat: `another repository`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Altium-Designer/) to take its place. This repository eventually generated at 10:19 pm, after I had began to set up other repositories, including its replacement.. |
+| The original name for this repository was `AI2001_Category-Source_Code-SC-Altium-Designer` it was renamed to `AI2001_Category-Source_Code-SC-Altium-Designer-1` as I prefer the one I already set up. |
+| I rarely archive repositories. There was no need to keep this one, so I didn't set it up. It has been archived on 2025, Sunday, May 29th. |
+| For further developments, see [:octocat: `AI2001_Category-Source_Code-SC-Altium-Designer-1`](https://github.com/seanpm2001/AI2001_Category-Source_Code-SC-Altium-Designer-1/)
+| - [:octocat: `@seanpm2001`](https://github.com/seanpm2001/) |
+
 ***
 
 # Git-Template (Version 8) by [@Seanpm2001](https://github.com/seanpm2001/)
